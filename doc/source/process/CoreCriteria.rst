@@ -79,8 +79,8 @@ PLAYS WELL WITH OTHERS
   definition over time.
 
 * **"DefCore in Last Release"** A required capability should stay a required
-  capability. This make makes DefCore capabilities sticky
-  release per release. Leaving DefCore is disruptive to the ecosystem
+  capability. This makes DefCore capabilities sticky per release. Leaving 
+  DefCore is disruptive to the ecosystem
 
 TAKES A SYSTEM VIEW
 -------------------
